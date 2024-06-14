@@ -3,27 +3,6 @@
 
 This project presents an in-depth analysis of a dataset related to hypothyroidism, focusing on anomaly detection using unsupervised learning techniques. The analysis includes data preprocessing, visualization, and the implementation of DBSCAN, Local Outlier Factor (LOF), and a combined method of both.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Methodology](#methodology)
-  - [Data Preprocessing](#data-preprocessing)
-  - [Visual Exploration](#visual-exploration)
-  - [Anomaly Detection](#anomaly-detection)
-    - [Gower Distance](#gower-distance)
-    - [t-SNE](#t-sne)
-    - [DBSCAN](#dbscan)
-    - [LOF](#lof)
-    - [Combined DBSCAN and LOF](#combined-dbscan-and-lof)
-- [Results](#results)
-- [Discussion](#discussion)
-- [Conclusion](#conclusion)
-- [References](#references)
-- [License](#license)
-
 ## Introduction
 Hypothyroidism is a medical condition characterized by an underactive thyroid gland. Detecting anomalies in medical datasets is crucial for identifying unusual patterns that could indicate potential health issues. This study employs unsupervised learning techniques to detect anomalies in a hypothyroidism dataset.
 
