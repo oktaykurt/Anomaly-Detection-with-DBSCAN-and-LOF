@@ -52,9 +52,6 @@ pip install -r requirements.txt
 1. Ensure the dataset file (`Unsupervised_Learning_23-24_Project_Dataset.csv`) is in the project directory.
 2. Run the script to perform the analysis and generate visualizations:
 
-```bash
-python anomaly_detection.py
-```
 
 ## Methodology
 
