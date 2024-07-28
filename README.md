@@ -86,3 +86,8 @@ This study successfully applies DBSCAN, LOF, and a combined approach for anomaly
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Paper
+For more detailed information, you can read the full paper [here](https://github.com/oktaykurt/Anomaly-Detection-with-DBSCAN-and-LOF/blob/7a5fd4210129ab5474deaf995e5862d9211b7b20/Anomaly%20Detection%20in%20Hypothyroidism%20Dataset%20Using%20DBSCAN%20and%20LOF.pdf).
+
+
